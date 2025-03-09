@@ -23,8 +23,6 @@ Here we have a comparison of Ventilated and a Non ventilated flow
 
 https://github.com/user-attachments/assets/f690b741-daad-420d-9e4d-ce7fb05b3d34
 
-
-
 ## Validation with Experimental Data
 
 The objective is to validate our numerical scheme against the experimental results of Sun [1], and simulation results of Xu [2] Sun performed experiments in a water tunnel with high-speed cameras measuring the flow characteristics at different time intervals. Figure 1 shows the underwater vehicle, with a 1 mm ventilation slot and two points to measure the pressure variation. A 3D geometry is used, and flow characteristics are observed across a 3D domain. 
@@ -42,6 +40,11 @@ where:
 - $\rho$ : Density of the fluid.
 - $U$ : Velocity of the object.
 - $\mu$ : molecular viscosity
+
+Here is the final validated data as a comparison with the works of Xu and Sun [2, 1].
+
+![image](https://github.com/user-attachments/assets/93933d6f-1424-404d-8f2e-ad76aff9d6a6)
+
 
 ### Flow Parameters
 The following are flow parameters
